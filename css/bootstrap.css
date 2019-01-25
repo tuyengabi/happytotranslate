@@ -400,7 +400,7 @@ h6, .h6 {
 }
 
 .display-1 {
-  font-size: 6rem;
+  font-size: 10rem;
   font-weight: 300;
   line-height: 1.2;
 }
@@ -7597,6 +7597,30 @@ button.bg-dark:focus {
   margin-left: 3rem !important;
 }
 
+.m-10 {
+  margin: 10rem !important;
+}
+
+.mt-10,
+.my-10 {
+  margin-top: 10rem !important;
+}
+
+.mr-10,
+.mx-10 {
+  margin-right: 10rem !important;
+}
+
+.mb-10,
+.my-10 {
+  margin-bottom: 10rem !important;
+}
+
+.ml-10,
+.mx-10 {
+  margin-left: 10rem !important;
+}
+
 .p-0 {
   padding: 0 !important;
 }
@@ -7739,6 +7763,11 @@ button.bg-dark:focus {
 .pl-5,
 .px-5 {
   padding-left: 3rem !important;
+}
+
+.px-10 {
+	padding-left: 10rem;
+	padding-right: 10rem;
 }
 
 .m-auto {
