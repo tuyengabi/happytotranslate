@@ -6258,7 +6258,7 @@ button.bg-dark:focus {
 }
 
 .rounded {
-  border-radius: 0.25rem !important;
+  border-radius: 1rem !important;
 }
 
 .rounded-top {
@@ -7618,6 +7618,10 @@ button.bg-dark:focus {
 .ml-10,
 .mx-10 {
   margin-left: 10rem !important;
+}
+
+.mt-18 {
+	margin-top: 18rem;
 }
 
 .p-0 {
@@ -9076,5 +9080,13 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+
+.polygon {
+	width: 100%;
+	height: 15rem;
+	box-shadow: -5px 5px 20px #000000;
+	-webkit-clip-path: polygon(100% 25%, 100% 67%, 50% 100%, 0 67%, 0% 25%);
+	clip-path: polygon(100% 25%, 100% 67%, 50% 100%, 0 67%, 0% 25%);
 }
 /*# sourceMappingURL=bootstrap.css.map */
