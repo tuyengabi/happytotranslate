@@ -2284,8 +2284,10 @@ textarea.form-control {
   }
   .form-inline .custom-control-label {
     margin-bottom: 0;
+    
   }
-}
+
+
 
 .btn {
   display: inline-block;
@@ -3520,6 +3522,7 @@ input[type="button"].btn-block {
 .custom-control-label {
   position: relative;
   margin-bottom: 0;
+  
 }
 
 .custom-control-label::before {
@@ -7407,7 +7410,11 @@ button.bg-dark:focus {
 .w-25 {
   width: 25% !important;
 }
-
+.list-unstyled text-center
+{
+  text-align: center;
+  
+}
 .w-50 {
   width: 50% !important;
 }
@@ -9056,6 +9063,8 @@ a.text-dark:hover, a.text-dark:focus {
   .badge {
     border: 1px solid #000;
   }
+  
+  
   .table {
     border-collapse: collapse !important;
   }
