@@ -54,6 +54,27 @@ html {
   width: device-width;
 }
 
+.bg-greyapp {
+	background-color: #f2f2ff;
+}
+
+.bg-blueapp {
+	background-color: #00b2b2;
+}
+
+.bg-violetapp {
+	background-color: #260019;
+}
+
+.bg-redapp {
+	background-color: #ff2a00;
+}
+
+.bg-brownapp {
+	background-color: #b27435;
+}
+
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
@@ -6150,25 +6171,6 @@ button.bg-light:focus {
   background-color: #343a40 !important;
 }
 
-.bg-greyapp {
-	background-color: #f2f2ff;
-}
-
-.bg-blueapp {
-	background-color: #00b2b2;
-}
-
-.bg-violetapp {
-	background-color: #260019;
-}
-
-.bg-redapp {
-	background-color: #ff2a00;
-}
-
-.bg-brownapp {
-	background-color: #b27435;
-}
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
