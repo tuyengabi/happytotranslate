@@ -5,7 +5,7 @@ HAPPY TO TRANSLATE (20/01/2018)
 ### Site d'application de traduction :
 
 ### Spécifications techniques:
-* CSS framework
+* CSS framework Bootstrap
 * Réalisation des wireframe
 * Structure du site en HTMT
 * HTML sémantique
